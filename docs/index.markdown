@@ -4,3 +4,10 @@
 
 layout: home
 ---
+
+
+Hello, here is some movie
+
+<video src="assets/video.ogg" type="video/ogg" controls="controls" style="max-width: 730px;">
+</video>
+
