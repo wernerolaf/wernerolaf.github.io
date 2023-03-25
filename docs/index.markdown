@@ -41,7 +41,7 @@ We rescale the image to 84x84 by using inter-area interpolation and grayscale.
 
 We detect objects using Otsu thresholding. This method separates objects into background and foreground. If pixels are connected then they are the same object. If an object is too big then we cut it.
 
-<video src="assets/Otsu.ogg" type="video/ogg" width="320" height="240" controls="controls" style="max-width: 730px;">
+<video src="assets/otsu.ogg" type="video/ogg" width="320" height="240" controls="controls" style="max-width: 730px;">
 </video>
 
 # Object clustering
